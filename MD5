@@ -1,0 +1,17 @@
+1e198a7500ca8191c8bf98cc66f8791a *DESCRIPTION
+f9d9862f9c217273dc50cdc5091a5e50 *NAMESPACE
+fea88fce4e4fbcb27694c94f10f17aaa *R/Ispline.r
+52f3c497c780873f468fdfd20eb456a7 *R/PCD.Corr.R
+4e2a8a3f3a6bd9e6678b2a686cf09c62 *R/PCDHess.wf.r
+eebe51edeea4d9cc56ccd8ab17b06020 *R/PCDReg.nf.r
+944ce157d6cdc67e4df3e0b5d5bcaa06 *R/PCDReg.wf.r
+1c1805a0d97e1a8c4898e720457218ab *data/BladTumor.rda
+8ac87c36979bad22bdaaaa2dd2b3f969 *data/BladTumor1.rda
+0d7f5076420c705a00b0b9532c6a6f7e *man/BladTumor.Rd
+32793b79ca1e56279359e228490e8d30 *man/BladTumor1.Rd
+4763a0c5937068897d676581a102b6c6 *man/Ispline.Rd
+2a45a4b78e0538ccfa65edd20c383f62 *man/PCD.Corr.rd
+20db058e354dcff2509b5177dc319c17 *man/PCDHess.wf.Rd
+231f508ae017f3d8b690322d8bae3fbd *man/PCDReg.nf.Rd
+d2bcc905d0977dee6c62d6b17b5cd39b *man/PCDReg.wf.Rd
+d9f6e2fd961c322003873af9415d2b9b *man/PCDSpline-package.Rd
